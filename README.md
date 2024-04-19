@@ -3,7 +3,7 @@
 ## What does this script do?
 
 The city of Vienna publishes a multipurpose map 
-(["Mehrzweckkarte"](https://www.wien.gv.at/stadtentwicklung/stadtvermessung/geodaten/mzk/)") in various versions as 
+(["Mehrzweckkarte"](https://www.wien.gv.at/stadtentwicklung/stadtvermessung/geodaten/mzk/)) in various versions as 
 Open Government Data. However, downloading the entire map is tedious as the data is tiled and each tile has to be 
 downloaded manually via the ["Geodatenviewer"](https://www.wien.gv.at/geodatenviewer/portal/wien/). This bash script 
 downloads all 98 tiles of the polygonal vector data version "Flächen-Mehrzweckkarte Vektordaten" and unpacks the GPKG 
